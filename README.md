@@ -16,7 +16,7 @@ Getting Started
 Prerequisites
 Java 11 or higher
 Maven
-IDE (e.g., IntelliJ IDEA, Eclipse)
+IDE (e.g., IntelliJ IDEA, Eclipse).
 
 
 
